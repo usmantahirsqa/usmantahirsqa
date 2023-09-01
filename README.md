@@ -26,11 +26,11 @@ If you're still reading me, why don't we connect?</h4>
 	</div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmantahirsqa&label=Profile%20views&color=0e75b6&style=plastic" alt="Usman Tahir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmantahirsqa&label=Profile%20views&color=0e75b6&style=plastic" alt="usmantahirsqa" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmantahirsqa&theme=algolia" alt="adeelnasir"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=usmantahirsqa&theme=algolia" alt="usmantahirsqa"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
@@ -62,15 +62,15 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
     <img align="center" alt="SoftwareTesting" src="https://img.shields.io/badge/SoftwareTesting-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Bug Reporting" src="https://img.shields.io/badge/BugReporting-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="Test Cases" src="https://img.shields.io/badge/TestCases-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
-    <img align="center" alt="TypeOfTesting" src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="TestPlanning" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="ManualTesting" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img align="center" alt="FunctionalTesting" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="NonFunctionalTesting" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
-    <img align="center"alt="BlackBoxTesting" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
-    <img align="center"alt="JIRA" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
-    <img align="center"alt="AgileMethodology & Scrum" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
-    <img align="center"alt="TestAutomation" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />   
+    <img align="center" alt="TypeOfTesting" src="https://img.shields.io/badge/TypeOfTesting-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="TestPlanning" src="https://img.shields.io/badge/TestPlanning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="ManualTesting" src="https://img.shields.io/badge/ManualTesting-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img align="center" alt="FunctionalTesting" src="https://img.shields.io/badge/FunctionalTesting-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="NonFunctionalTesting" src="https://img.shields.io/badge/NonFunctionalTesting-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
+    <img align="center"alt="BlackBoxTesting" src="https://img.shields.io/badge/BlackBoxTesting-404D59?style=for-the-badge" /> 
+    <img align="center"alt="JIRA" src="https://img.shields.io/badge/JIRA-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
+    <img align="center"alt="AgileMethodology & Scrum" src="https://img.shields.io/badge/AgileMethodology & Scrum-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
+    <img align="center"alt="TestAutomation" src="https://img.shields.io/badge/Test Automation-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />   
     <img align="center"alt="DatabaseTesting" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
     <img align="center"alt="API Testing" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
     <img align="center"alt="Postman" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
