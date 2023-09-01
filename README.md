@@ -18,7 +18,7 @@ If you're still reading me, why don't we connect?</h4>
 <div style="text-align:center;">
 	
 <a href="https://usmantahirsqa.netlify.app/">
-  <img align="left" alt="Usman Tahir SQA Website" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/Linkedin.png" />
+  <img align="left" alt="Usman Tahir SQA Website" width="22px" src="https://drive.google.com/file/d/1YeiS3lGoVsQ4xMCFPK-9Re4MNureT0tL/view?usp=sharing" />
 </a>
 <a href="https://www.linkedin.com/in/usmantahirsqa/">
   <img align="right" alt="Adeel's LinkedIN profile" width="22px" src="https://drive.google.com/file/d/1_JcU8WFsTCNHh0vSSfi8RfbbFFYiZcCl/view?usp=sharing" />
