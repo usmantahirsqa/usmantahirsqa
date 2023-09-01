@@ -3,7 +3,13 @@
   <a href="https://github.com/usmantahirsqa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Quality+Assurance+Engineer;Software+Test+Engineer;Software+Tester;Manual+Tester;Automation+Tester;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I  identify  myself  as a transparent individual who takes responsibilities seriously and  knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code . I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
+<h5 align="center">SQA Engineer with 1+ years of experience in the software industry. Proven ability to deliver high-quality software through a combination of manual and automated testing techniques. Expertise in all phases of the software development lifecycle, from requirements gathering to testing to release.
+
+Passionate about ensuring the quality of software products and delivering a positive user experience. Skilled in identifying and resolving defects, as well as in communicating test results to stakeholders.
+
+Experienced in working with a variety of software development methodologies, including Waterfall, Agile, and Scrum. Strong understanding of industry standards, such as ISO 9001 and IEEE 829.
+
+Proven track record of success in delivering high-quality software on time and within budget.
 </h5>
 <br/>
 <h4 align="center">
