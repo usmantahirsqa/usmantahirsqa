@@ -17,7 +17,7 @@ If you're still reading me, why don't we connect?</h4>
 
 <div style="text-align:center;">
 <a href="https://www.instagram.com/adeel.eex/">
-  <img align="left" alt="Adeel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Adeel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/Linkedin.png" />
 </a>
 <a href="https://www.linkedin.com/in/adeel-nasir-457a8b1a7/">
   <img align="right" alt="Adeel's LinkedIN profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
