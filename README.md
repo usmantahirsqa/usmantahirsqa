@@ -26,7 +26,7 @@ If you're still reading me, why don't we connect?</h4>
 	</div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmantahirsqa&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmantahirsqa&label=Profile%20views&color=0e75b6&style=plastic" alt="Usman Tahir" /> </p>
 
 ## 🔥 Streak Stats
 
@@ -51,18 +51,18 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
 ## ⚡ GitHub Activity Graph:
 
   <br/>
-   <a href="https://github.com/usmantahirsqa"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=usmantahirsqa&custom_title=usmantahirsqa%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/usmantahirsqa"><img alt="Usman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=usmantahirsqa&custom_title=usmantahirsqa%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies
 
 <div style="display: inline-block"><br />
+	<img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="MATERIALIZE" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
-    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="SoftwareTesting" src="https://img.shields.io/badge/SoftwareTesting-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Bug Reporting" src="https://img.shields.io/badge/BugReporting-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" alt="Test Cases" src="https://img.shields.io/badge/TestCases-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
+    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
