@@ -62,16 +62,16 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
     <img align="center" alt="SoftwareTesting" src="https://img.shields.io/badge/Software Testing-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Bug Reporting" src="https://img.shields.io/badge/Bug Reporting-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="Test Cases" src="https://img.shields.io/badge/Test Cases-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
-    <img align="center" alt="TypeOfTesting" src="https://img.shields.io/badge/Type Of Testing-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="TestPlanning" src="https://img.shields.io/badge/Test Planning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="ManualTesting" src="https://img.shields.io/badge/Manual Testing-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img align="center" alt="FunctionalTesting" src="https://img.shields.io/badge/Functional Testing-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="NonFunctionalTesting" src="https://img.shields.io/badge/Non Functional Testing-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
-    <img align="center"alt="BlackBoxTesting" src="https://img.shields.io/badge/Black Box Testing-404D59?style=for-the-badge" /> 
+    <img align="center" alt="Software Testing Techniques" src="https://img.shields.io/badge/Software Testing Technique-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="Test Planning" src="https://img.shields.io/badge/Test Planning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="Manual Testing" src="https://img.shields.io/badge/Manual Testing-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img align="center" alt="Functional Testing" src="https://img.shields.io/badge/Functional Testing-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Non Functional Testing" src="https://img.shields.io/badge/Non Functional Testing-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
+    <img align="center"alt="Black Box Testing" src="https://img.shields.io/badge/Black Box Testing-404D59?style=for-the-badge" /> 
     <img align="center"alt="JIRA" src="https://img.shields.io/badge/JIRA-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
-    <img align="center"alt="AgileMethodology & Scrum" src="https://img.shields.io/badge/AgileMethodology & Scrum-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
-    <img align="center"alt="TestAutomation" src="https://img.shields.io/badge/Test Automation-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />   
-    <img align="center"alt="DatabaseTesting" src="https://img.shields.io/badge/Database Testing-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
+    <img align="center"alt="Agile Methodology & Scrum" src="https://img.shields.io/badge/AgileMethodology & Scrum-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
+    <img align="center"alt="Test Automation" src="https://img.shields.io/badge/Test Automation-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />   
+    <img align="center"alt="Database Testing" src="https://img.shields.io/badge/Database Testing-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
     <img align="center"alt="API Testing" src="https://img.shields.io/badge/API Testing-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
     <img align="center"alt="Postman" src="https://img.shields.io/badge/Postman-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center"alt="JEST" src="https://img.shields.io/badge/JEST-F05032?style=for-the-badge&logo=git&logoColor=white" />
