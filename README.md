@@ -21,7 +21,7 @@ If you're still reading me, why don't we connect?</h4>
   <img align="left" alt="Usman Tahir SQA Website" width="22px" src="https://drive.google.com/file/d/1YeiS3lGoVsQ4xMCFPK-9Re4MNureT0tL/view?usp=sharing" />
 </a>
 <a href="https://www.linkedin.com/in/usmantahirsqa/">
-  <img align="right" alt="Adeel's LinkedIN profile" width="50px" height="50px" src="https://img.icons8.com/ios-filled/50/linkedin.png" />
+  <img align="right" alt="Usman Tahir SQA LinkedIN profile" width="50px" height="50px"<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" />
 </a>
 	</div>
 <br>
