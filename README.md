@@ -51,7 +51,7 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
 ## ⚡ GitHub Activity Graph:
 
   <br/>
-   <a href="https://github.com/usmantahirsqa"><img align="center" alt="Usman's Activity Graph" width="50" height="50" src="https://img.icons8.com/color/48/graph.png" alt="graph"/>Usman Tahir SQA Activity Graph</a>
+   <a href="https://github.com/usmantahirsqa"><img align="center" alt="Usman's Activity Graph" width="40" height="40" src="https://img.icons8.com/color/48/graph.png" alt="graph"/>Usman Tahir SQA Activity Graph</a>
   <br/>
 
 ## Technologies
