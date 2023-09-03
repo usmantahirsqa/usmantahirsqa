@@ -46,7 +46,7 @@ If you're still reading me, why don't we connect?</h4>
 <br/>
 i am also an open-source  enthusiast  and maintainer. i learned a lot from the open-source community  and i love how collaboration and knowledge sharing happened through open-source.
 
-<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src=""  /></div>
+<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://img.icons8.com/external-glyph-silhouettes-icons-papa-vector/78/external-Software-Testing-digital-skills-glyph-silhouettes-icons-papa-vector.png"  /></div>
 
 ## ⚡ GitHub Activity Graph:
 
