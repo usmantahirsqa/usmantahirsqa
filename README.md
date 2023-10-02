@@ -73,7 +73,8 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
     <img align="center"alt="Test Automation" src="https://img.shields.io/badge/Test Automation-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />   
     <img align="center"alt="Database Testing" src="https://img.shields.io/badge/Database Testing-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
     <img align="center"alt="API Testing" src="https://img.shields.io/badge/API Testing-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
-    <img align="center"alt="Postman" src="https://img.shields.io/badge/Postman-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center"alt="JEST" src="https://img.shields.io/badge/JEST-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center"alt="CYPRESS" src="https://img.shields.io/badge/CYPRESS-3776AB?style=for-the-badge&logo=python&logoColor=white"/>           
+    <img align="center"alt="Postman" src="https://img.shields.io/badge/Postman-2CA5E0?style=for-the-badge&logo=postman&logoColor=white" />
+    <img align="center"alt="Selenium" src="https://img.shields.io/badge/JEST-F05032?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img align="center"alt="CYPRESS" src="https://img.shields.io/badge/CYPRESS-3776AB?style=for-the-badge&logo=cypress&logoColor=white"/>  
+	 <img align="center"alt="JMETER" src="https://img.shields.io/badge/JMETER-3776AB?style=for-the-badge&logo=jmeter&logoColor=white"/>  
 </div>
