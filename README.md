@@ -71,8 +71,8 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
     <img align="center"alt="JIRA" src="https://img.shields.io/badge/JIRA-%23E0234E.svg?style=for-the-badge&logo=jira&logoColor=white" /> 
     <img align="center"alt="Agile Methodology & Scrum" src="https://img.shields.io/badge/Agile Methodology & Scrum-E10098?style=for-the-badge&logo=agile&logoColor=white" /> 
     <img align="center"alt="Test Automation" src="https://img.shields.io/badge/Test Automation-311C87?&style=for-the-badge&logo=automation%20GraphQL&logoColor=white" />   
-    <img align="center"alt="Database Testing" src="https://img.shields.io/badge/Database Testing-316192?style=for-the-badge&logo=mysql&logoColor=white" />  
-	 <img align="center"alt="SQL" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" />  
+    <img align="center"alt="Database Testing" src="https://img.shields.io/badge/Database Testing-316192?style=for-the-badge&logo=mongodb&logoColor=white" />  
+	 <img align="center"alt="SQL" src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />  
     <img align="center"alt="API Testing" src="https://img.shields.io/badge/API Testing-%23DD0031.svg?&style=for-the-badge&logo=postman&logoColor=white" /> 
     <img align="center"alt="Postman" src="https://img.shields.io/badge/Postman-2CA5E0?style=for-the-badge&logo=postman&logoColor=white" />
     <img align="center"alt="Selenium" src="https://img.shields.io/badge/SELENIUM-F05032?style=for-the-badge&logo=selenium&logoColor=white" />
