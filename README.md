@@ -78,5 +78,6 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
     <img align="center"alt="Selenium" src="https://img.shields.io/badge/SELENIUM-F05032?style=for-the-badge&logo=selenium&logoColor=white" />
     <img align="center"alt="CYPRESS" src="https://img.shields.io/badge/CYPRESS-3776AB?style=for-the-badge&logo=cypress&logoColor=white"/>  
 	<img align="center" alt="JMETER" src="https://img.shields.io/badge/JMETER-3776AB?style=for-the-badge&logo=JMeter&logoColor=white"/>
+ <img align="center" alt="JENKINS" src="https://img.shields.io/badge/JENKINS-3776AB?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
 </div>
