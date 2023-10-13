@@ -58,7 +58,6 @@ i am also an open-source  enthusiast  and maintainer. i learned a lot from the o
 
 <div style="display: inline-block"><br />
 	<img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-//    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="SoftwareTesting" src="https://img.shields.io/badge/Software Testing-1572B6?style=for-the-badge&logo=testing&logoColor=white" />
     <img align="center" alt="Bug Reporting" src="https://img.shields.io/badge/Bug Reporting-CC6699?style=for-the-badge&logo=bug&logoColor=white" />
     <img align="center" alt="Test Cases" src="https://img.shields.io/badge/Test Cases-ff69b4?style=for-the-badge&logo=testcases&logoColor=white" />
