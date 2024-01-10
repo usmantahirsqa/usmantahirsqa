@@ -3,7 +3,7 @@
   <a href="https://github.com/usmantahirsqa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Quality+Assurance+Engineer;Software+Test+Engineer;Software+Tester;Manual+Tester;Automation+Tester;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">SQA Engineer with 1+ years of experience in the software industry. Proven ability to deliver high-quality software through a combination of manual and automated testing techniques. Expertise in all phases of the software development lifecycle, from requirements gathering to testing to release.
+<h5 align="center">SQA Engineer with 2+ years of experience in the software industry. Proven ability to deliver high-quality software through a combination of manual and automated testing techniques. Expertise in all phases of the software development lifecycle, from requirements gathering to testing to release.
 
 Passionate about ensuring the quality of software products and delivering a positive user experience. Skilled in identifying and resolving defects, as well as in communicating test results to stakeholders.
 
