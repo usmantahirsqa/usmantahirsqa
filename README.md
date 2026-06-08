@@ -36,10 +36,10 @@ If you're still reading me, why don't we connect?</h4>
 
   <br/>
   <p align="center" >
-	<a href="https://github.com/usmantahirsqa/github-readme-stats"><img alt="adeelnasir's github Stats" src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/usmantahirsqa/github-readme-stats"><img alt="usmantahir github Stats" src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmantahirsqa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adeelnasir" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmantahirsqa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="usmantahir" height="192px"/>
   <br/>
   </p>
 
