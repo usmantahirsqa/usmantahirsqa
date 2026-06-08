@@ -3,13 +3,13 @@
 ### 🚀 QA Automation Engineer | Selenium | Cypress | API Testing | Java | SQL
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usmantahirsqa/">
+  <a href="https://www.linkedin.com/in/muhammadusmantahirsqa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://usmantahirsqa.netlify.app/">
+  <a href="https://usmantahirsqa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-usmantahirsqa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -94,13 +94,13 @@ QA Automation Engineer with experience in Manual Testing, Test Automation, API T
 
 ## 🏆 Certifications
 
-* ✅ Test Automation with Cypress – 10Pearls University
-* ✅ Automation Testing with Selenium (Java)
+* ✅ Test Automation with Cypress
+* ✅ Automation Testing with Selenium with TestNG (Java)
 * ✅ Introduction to API Testing with Postman
 * ✅ QA Fundamentals
 * ✅ Java Programming
 * ✅ SQL Fundamentals
-* ✅ Python 3 Tutorial
+* ✅ Python Tutorial
 * ✅ JavaScript Tutorial
 * ✅ Jira Project Management
 
