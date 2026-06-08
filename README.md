@@ -93,13 +93,13 @@ Passionate Software Quality Assurance Engineer with experience in Manual Testing
 
 ## 🎓 Certifications
 
-* Test Automation with Cypress – 10Pearls University
-* Automation Testing with Selenium (Java)
+* Test Automation with Cypress
+* Automation Testing with Selenium with TestNG (Java)
 * Introduction to API Testing with Postman
 * QA Fundamentals
 * Java Programming
 * SQL Fundamentals
-* Python 3 Tutorial
+* Python Tutorial
 * JavaScript Tutorial
 * Jira Project Management
 
