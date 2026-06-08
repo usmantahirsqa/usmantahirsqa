@@ -35,13 +35,23 @@ If you're still reading me, why don't we connect?</h4>
 ## 💻 GitHub Profile Stats:
 
   <br/>
-  <p align="center" >
-	<a href="https://github.com/usmantahirsqa/github-readme-stats"><img alt="usmantahir github Stats" src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmantahirsqa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="usmantahir" height="192px"/>
-  <br/>
-  </p>
+<p align="center">
+  <a href="https://github.com/usmantahirsqa">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&count_private=true&theme=algolia"
+      alt="GitHub Stats"
+      height="192px"
+    />
+  </a>
+
+  <a href="https://github.com/usmantahirsqa?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=usmantahirsqa&show_icons=true&locale=en&layout=compact&theme=algolia"
+      alt="Top Languages"
+      height="192px"
+    />
+  </a>
+</p>
 
 <br/>
 i am also an open-source  enthusiast  and maintainer. i learned a lot from the open-source community  and i love how collaboration and knowledge sharing happened through open-source.
