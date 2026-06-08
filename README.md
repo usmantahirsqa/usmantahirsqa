@@ -53,15 +53,9 @@ Passionate Software Quality Assurance Engineer with experience in Manual Testing
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&theme=github_dark" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usmantahirsqa&theme=github-dark" />
 </p>
----
 
 ## 📂 Featured Projects
 
