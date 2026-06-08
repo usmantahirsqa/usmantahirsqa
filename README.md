@@ -3,10 +3,10 @@
 ### 🚀 QA Automation Engineer | Selenium | Cypress | API Testing | Java | SQL
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usmantahirsqa/">
+  <a href="https://www.linkedin.com/in/muhammadusmantahirsqa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://usmantahirsqa.netlify.app/">
+  <a href="https://usmantahirsqa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
@@ -63,9 +63,9 @@ I help teams deliver **bug-free, high-quality software** through automation, API
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usmantahirsqa&show_icons=true&theme=github_dark" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usmantahirsqa&theme=github-dark" />
@@ -117,8 +117,8 @@ I help teams deliver **bug-free, high-quality software** through automation, API
 
 ## 📫 Let's Connect
 
-💼 Portfolio: usmantahirsqa.netlify.app
+💼 Portfolio: usmantahirsqa.vercel.app
 
-🔗 LinkedIn: linkedin.com/in/usmantahirsqa
+🔗 LinkedIn: linkedin.com/in/muhammadusmantahirsqa
 
 ⭐ If you find my projects useful, consider starring the repositories!
