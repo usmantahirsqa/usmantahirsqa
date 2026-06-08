@@ -5,10 +5,10 @@
 Passionate Software Quality Assurance Engineer with experience in Manual Testing, Test Automation, API Testing, and Database Testing. I enjoy building reliable automation frameworks, finding critical defects, and helping teams deliver high-quality software.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usmantahirsqa/">
+  <a href="https://www.linkedin.com/in/muhammadusmantahirsqa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://usmantahirsqa.netlify.app/">
+  <a href="https://usmantahirsqa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
