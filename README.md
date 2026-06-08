@@ -17,13 +17,13 @@ Passionate Software Quality Assurance Engineer with experience in Manual Testing
 
 ## 🚀 About Me
 
-* 🔍 Software Quality Assurance Engineer
-* 🤖 Test Automation Engineer
-* 🌐 API Testing with Postman
-* 🧪 Manual & Automation Testing
-* 📊 Database Testing using SQL
-* ⚡ Building Selenium & Cypress Automation Frameworks
-* 📚 Continuous Learner and Open-Source Enthusiast
+🔹 QA Automation Engineer
+🔹 Selenium WebDriver + Java
+🔹 Cypress Automation Testing
+🔹 API Testing with Postman
+🔹 SQL Database Testing
+🔹 Jira, Jenkins & Agile Scrum
+🔹 Open to QA Automation opportunities
 
 ---
 
